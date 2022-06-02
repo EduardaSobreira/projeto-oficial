@@ -1,0 +1,58 @@
+#sobre-conteudo {
+    background-image: url("../img/projeto.jpg");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#sobre-conteudo-2 {
+    background-color: rgb(84, 81, 81);
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#div-sobre-text {
+    width: 80%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+#sobre_text {
+    padding: 0;
+    margin: 0;
+    color: white;
+    font-size: 20px;
+    width: 100%;
+     list-style-position: inside;
+    color: white;
+    margin-bottom: 1.5em;
+    font-size: 15px;
+    
+}
+
+
+section p {
+    text-align: center;
+    font-size: 80px;
+    
+}
+
+footer {
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 100%;
+    bottom: 0;
+    text-align: center;
+    line-height: 100px;
+}
+

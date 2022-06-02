@@ -1,0 +1,16 @@
+
+.btn-medio-arredondado {
+    border: rgb(0, 0, 0);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 3px;
+    padding: 5px 35px 5px 35px;
+  }
+  
+  .btn-link {
+    color: rgb(22, 22, 22);
+    text-decoration: none;
+  }
+
+  
+  
